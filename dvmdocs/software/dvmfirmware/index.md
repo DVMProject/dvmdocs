@@ -11,6 +11,6 @@ This firmware is used by STM32- or Arduino Due-based modem boards, including the
 
 ## `dvmfirmware-hs` hotspot firmware
 
-This firmware is used by STM32 hotspot boards utilizing the ADF7021 RF modem ICs. `dvmfirmware-hs` supports both simplex and duplex hotspot boards.
+This firmware is used by STM32 hotspot boards utilizing the ADF7021 RF modem ICs. `dvmfirmware-hs` supports duplex hotspot boards only.
 
 [Read More](dvmfirmware-hs.md)
