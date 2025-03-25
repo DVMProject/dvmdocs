@@ -19,10 +19,8 @@ in later, more complex multi-channel and multi-site systems.
 
 ### Configuration
 
-## Conventional P25 Single-Channel System with Control Messaging
+## Conventional P25 Single-Channel System
 
-## Voice-On-Control P25 Single-Channel System
-
-**NOTE: This system type is no longer recommended as most radios do not support voice-on-control operation properly**
+## Conventional P25 Single-Channel System with Control Messaging (DVRS Mode)
 
 ## Basic P25 Trunking Site (Dedicated Control & Voice Channels)
